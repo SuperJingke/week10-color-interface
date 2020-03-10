@@ -1,0 +1,21 @@
+body{
+    background-color: brown;
+}
+
+.button1{
+    font-size: 24px;
+    border-radius: 2px;
+    border: 2px solid red;
+}
+
+.button2{
+    font-size: 24px;
+    border-radius: 2px;
+    border: 2px solid green;
+}
+
+.button3{
+    font-size: 24px;
+    border-radius: 2px;
+    border: 2px solid orange;
+}
